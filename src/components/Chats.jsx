@@ -32,14 +32,14 @@ export const Chats = () => {
         </div>
       </div>
       <div className="userChat">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Napw0Q6qX184KpJrT5oNxD9b8lFJ2q2jsovOPlE3emHay5vJEM1GeCQTRX9AfiLOw8s&usqp=CAU" alt="" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJih0Wr2YXTBn6YSr0I7GSJEqm54gPAedkQ&usqp=CAU" alt="" />
         <div className="userChatInfo">
           <span>Pooja</span>
           <p>lol</p>
         </div>
       </div>
       <div className="userChat">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJih0Wr2YXTBn6YSr0I7GSJEqm54gPAedkQ&usqp=CAU" alt="" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Napw0Q6qX184KpJrT5oNxD9b8lFJ2q2jsovOPlE3emHay5vJEM1GeCQTRX9AfiLOw8s&usqp=CAU " alt="" />
         <div className="userChatInfo">
           <span>Ankit</span>
           <p>Come on.</p>
