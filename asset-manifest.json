@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wazzup/static/css/main.f74e8ba3.css",
+    "main.js": "/wazzup/static/js/main.6c391b44.js",
+    "index.html": "/wazzup/index.html",
+    "main.f74e8ba3.css.map": "/wazzup/static/css/main.f74e8ba3.css.map",
+    "main.6c391b44.js.map": "/wazzup/static/js/main.6c391b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f74e8ba3.css",
+    "static/js/main.6c391b44.js"
+  ]
+}
