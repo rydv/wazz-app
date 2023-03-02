@@ -3,11 +3,11 @@
         @content
     }
 }
-@mixin tablet{
-    @media screen and (max-width:900px){
-        @content
+@mixin tablet {
+    @media screen and (max-width: 900px) {
+      @content;
     }
-}
+  }
 @mixin laptop{
     @media screen and (max-width:1200px){
         @content
@@ -278,7 +278,7 @@
                 justify-content: space-between;
 
                 input{
-                    width: 100px;
+                    width: 100%;
                     border: none;
                     outline: none;
                     color: #2f2d52;
@@ -304,6 +304,7 @@
                         padding : 10px 15px;
                         color: white;
                         background-color:#8da4f1;
+                        cursor: pointer;
 
                     }
                 }
